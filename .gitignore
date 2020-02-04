@@ -1,0 +1,8 @@
+data
+keras_tensorboard
+snapshot
+log.txt
+MANIFEST
+*.hdf5
+.vscode
+*.pyc
